@@ -1,0 +1,15 @@
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\bin\Debug\net6.0\Notas_estudiantes.exe
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\bin\Debug\net6.0\Notas_estudiantes.deps.json
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\bin\Debug\net6.0\Notas_estudiantes.runtimeconfig.json
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\bin\Debug\net6.0\Notas_estudiantes.dll
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\bin\Debug\net6.0\Notas_estudiantes.pdb
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\obj\Debug\net6.0\Notas_estudiantes.csproj.AssemblyReference.cache
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\obj\Debug\net6.0\Notas_estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\obj\Debug\net6.0\Notas_estudiantes.AssemblyInfoInputs.cache
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\obj\Debug\net6.0\Notas_estudiantes.AssemblyInfo.cs
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\obj\Debug\net6.0\Notas_estudiantes.csproj.CoreCompileInputs.cache
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\obj\Debug\net6.0\Notas_estudiantes.dll
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\obj\Debug\net6.0\refint\Notas_estudiantes.dll
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\obj\Debug\net6.0\Notas_estudiantes.pdb
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\obj\Debug\net6.0\Notas_estudiantes.genruntimeconfig.cache
+D:\Users\Alex Zapata\Documents\Umanizales\2 Semestre\Programacion\Github\Programacion-II\Notas_Colegio\Notas_estudiantes\Notas_estudiantes\obj\Debug\net6.0\ref\Notas_estudiantes.dll
